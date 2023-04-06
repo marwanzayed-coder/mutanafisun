@@ -1,0 +1,45 @@
+General Skills
+English
+How To Write Cv
+use Computer
+Windows
+cmd
+
+read || color - Hardwear - How To Memory Work
+
+Whats The Internet
+Http vs Https
+Dns
+Front-End Development
+Api
+RoadMap
+Html 
+Css => Margin - Padding - Flex box - Grid - Container - Media Query || BEM
+Js => Elzero Web School => Variables - Arrays - Functions - Loop - IF- Heigher Order Functions - Arrow Function
+Projects
+
+Bootstrab - Tailwind
+SASS - TS
+React Js => Redux
+
+
+Git&Github  //Git Flow
+
+
+Fire Base
+
+
+3,830
+
+7,500
+
+11,500
+
+salaryexplorer
+Linked In
+
+XSS
+
+Mozilla
+W3 School
+

@@ -1,0 +1,15 @@
+.check-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    border: 2px solid var(--third-color);
+    border-radius: var(--border-radius);
+    margin: 1rem 0;
+    padding: 0.5rem;
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+}
+

@@ -1,0 +1,36 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  position: fixed;
+  top: 0;
+  width: 90%;
+  background-color: var(--bg-color);
+  border-bottom: rgb(70, 70, 71) 1px solid;
+}
+
+select {
+  background-color: transparent;
+  color: var(--color-white);
+  font-size: 1rem;
+  font-family: var(--font);
+}
+
+option {
+  background-color: var(--bg-color);
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  padding: 1.3rem;
+}
+
+.nav-btns {
+  display: flex;
+  gap: 1rem;
+}
